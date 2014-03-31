@@ -1,5 +1,4 @@
-["corgime.coffee",
- "cowsay.coffee",
+["cowsay.coffee",
  "cumberbatch.coffee",
  "dealwithit.coffee",
  "demolition-man.coffee",
@@ -13,4 +12,5 @@
  "horse.coffee",
  "karma.coffee",
  "shipit.coffee",
+ "stock.coffee",
  "redis-brain.coffee"]
