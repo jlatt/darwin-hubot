@@ -1,1 +1,16 @@
-["redis-brain.coffee", "shipit.coffee"]
+["corgime.coffee",
+ "cowsay.coffee",
+ "cumberbatch.coffee",
+ "dealwithit.coffee",
+ "demolition-man.coffee",
+ "dice.coffee",
+ "do-it-live.coffee",
+ "eight-ball.coffee",
+ "emoji.coffee",
+ "faceup.coffee",
+ "ferengi_rules_of_acquisition.coffee",
+ "haters.coffee",
+ "horse.coffee",
+ "karma.coffee",
+ "shipit.coffee",
+ "redis-brain.coffee"]
